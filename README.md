@@ -6,6 +6,6 @@
  --recuperer son adresse en https://github/*******/**.gif
    Dansreadme Edit : ajouter \![demo](https://github.com/*********/****.gif)
  --commit changes
-
+</p>
 
 ![Demo2](https://github.com/legrandflo/test/blob/master/2018-04-25-at-18-53-25.gif)
