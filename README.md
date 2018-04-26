@@ -4,7 +4,7 @@
  3)Dans github, dans le repo: <br>
  --uploadfile : ajouter le .gif <br>
  --recuperer son adresse en https://github/*******/**.gif <br>
-   Dansreadme Edit : ajouter \![demo](https://github.com/*********/****.gif) <br>
+   Dans readme Edit : ajouter ![demo](https://github.com/*********/****.gif) <br>
  --commit changes <br>
 </p>
 
