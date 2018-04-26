@@ -5,6 +5,7 @@
 --uploadfile : ajouter le .gif 
 --recuperer son adresse en https://github/*******/**.gif
 --readme Edit : ajouter ![Demo](https://github.com/*********/****.gif)
+--commit changes
 
 
 
