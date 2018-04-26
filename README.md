@@ -1,4 +1,6 @@
-<p> test <br>
+#Comment mettre un gif dans un readme pour faire une demo 
+
+<p> 
   1)Faire une video mp4 avec freeScreenVideoRecorder(logiciel)  ou autre.->mettre dans dossier sur PC <br>
    (on peut changer les options avant de demarrer la video : voir la souris par exemple, dossier de destination) <br>
     (Avec freeScreenVideoRecorder 6 carres à droite , video avec choix de la fenetre <br>
@@ -14,4 +16,4 @@
 
 #EXEMPLE de RENDU:
 
-![Demo](https://github.com/legrandflo/test/blob/master/2018-04-25-at-18-53-25.gif)
+![Demo](https://github.com/legrandflo/test/blob/master/DemoPierreFeuilleCiseaux.gif)
