@@ -1,11 +1,17 @@
 <p> test <br>
   1)Faire une video mp4 avec freeScreenVideoRecorder(logiciel)  ou autre.->mettre dans dossier sur PC <br>
- 2)Transformer la video en .gif avec convertio.io...mp4 converter (site)-> mettre dans dossier sur PC <br>
- 3)Dans github, dans le repo: <br>
- --uploadfile : ajouter le .gif <br>
- --recuperer son adresse en https://github/*******/**.gif <br>
-   Dans readme Edit : ajouter ![demo](https://github.com/*********/****.gif) <br>
- --commit changes <br>
+   (on peut changer les options avant de demarrer la video : voir la souris par exemple, dossier de destination) <br>
+    (Avec freeScreenVideoRecorder 6 carres à droite , video avec choix de la fenetre <br>
+ 2)Transformer la video en .gif avec https://convertio.co/fr/convertisseur-mp4/ (site)-> mettre dans dossier sur PC <br>
+ 3)Dans github:<br>
+  --Dans le repo: <br>
+      1-uploadfile : ajouter le .gif <br>
+      2-recuperer son adresse (click droit sur le fichier, copier adresse du lien) en https://github/*******/**.gif <br>
+ --Dans readme Edit : <br>
+      1-ajouter ![demo](https://github.com/*********/****.gif) <br>
+      2-commit changes <br>
 </p>
 
-![Demo2](https://github.com/legrandflo/test/blob/master/2018-04-25-at-18-53-25.gif)
+#EXEMPLE de RENDU:
+
+![Demo](https://github.com/legrandflo/test/blob/master/2018-04-25-at-18-53-25.gif)
