@@ -2,8 +2,8 @@
 
 <p> 
   1)Faire une video mp4 avec freeScreenVideoRecorder(logiciel)  ou autre.->mettre dans dossier sur PC <br>
-   (on peut changer les options avant de demarrer la video : voir la souris par exemple, dossier de destination) <br>
-    (Avec freeScreenVideoRecorder 6 carres à droite , video avec choix de la fenetre <br>
+   (on peut changer les options avant de demarrer la video : voir la souris par exemple, dossier de destination, qualité de la video : AUTO dans options ) <br>
+    (Avec freeScreenVideoRecorder 6ieme carres à droite , video avec choix de la fenetre <br>
  2)Transformer la video en .gif avec https://convertio.co/fr/convertisseur-mp4/ (site)-> mettre dans dossier sur PC <br>
  3)Dans github:<br>
   --Dans le repo: <br>
